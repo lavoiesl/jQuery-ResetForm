@@ -1,5 +1,5 @@
 {
-    "name": "lavoiesl/jQuery-ResetForm",
+    "name": "lavoiesl/jquery-resetform",
     "type": "jquery-plugin",
     "description": "ResetForm enables to easily and unobtrusively reset a form’s elements to their original value",
     "keywords": ["jQuery"],
