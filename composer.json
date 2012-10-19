@@ -1,0 +1,13 @@
+{
+    "name": "lavoiesl/jQuery-ResetForm",
+    "type": "jquery-plugin",
+    "description": "ResetForm enables to easily and unobtrusively reset a form’s elements to their original value",
+    "keywords": ["jQuery"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sébastien Lavoie",
+            "email": "github@lavoie.sl"
+        }
+    ]
+}
